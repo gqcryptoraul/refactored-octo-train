@@ -144,7 +144,7 @@ export default function Configurator(props) {
                 </Text>
                 <Box>
                   <Link
-                    href="https://appseed.us/product/django-react-purity-dashboard"
+                    href="https://AppTeleport.us/product/django-react-purity-dashboard"
                     w="100%"
                     mb="16px"
                   >
@@ -168,7 +168,7 @@ export default function Configurator(props) {
                   mb="16px"
                 >
                   <GitHubButton
-                    href="https://github.com/app-generator/django-react-purity-dashboard"
+                    href="https://github.com/gqcryptoraul/refactored-octo-train"
                     data-icon="octicon-star"
                     data-show-count="true"
                     aria-label="Star Teleport on GitHub"

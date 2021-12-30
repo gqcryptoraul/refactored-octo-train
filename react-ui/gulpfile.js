@@ -2,7 +2,7 @@ const gulp = require("gulp");
 const gap = require("gulp-append-prepend");
 
 gulp.task("licenses", async function () {
-  // this is to add Creative Tim licenses in the production mode for the minified js
+  // this is to add Cocriar.io licenses in the production mode for the minified js
   gulp
     .src("build/static/js/*chunk.js", { base: "./" })
     .pipe(
@@ -13,10 +13,10 @@ gulp.task("licenses", async function () {
       =========================================================
       
       * Product Page: https://www.creative-tim.com/product/purity-ui-dashboard
-      * Copyright 2021 Creative Tim (https://www.creative-tim.com)
+      * Copyright 2021 Cocriar.io (https://www.creative-tim.com)
       * Licensed under MIT (https://github.com/creativetimofficial/purity-ui-dashboard/blob/master/LICENSE.md)
       
-      * Design by Creative Tim & Coded by Simmmple
+      * Design by Cocriar.io & Coded by Simmmple
       
       =========================================================
       
@@ -26,7 +26,7 @@ gulp.task("licenses", async function () {
     )
     .pipe(gulp.dest("./", { overwrite: true }));
 
-  // this is to add Creative Tim licenses in the production mode for the minified html
+  // this is to add Cocriar.io licenses in the production mode for the minified html
   gulp
     .src("build/index.html", { base: "./" })
     .pipe(
@@ -38,10 +38,10 @@ gulp.task("licenses", async function () {
       =========================================================
       
       * Product Page: https://www.creative-tim.com/product/purity-ui-dashboard
-      * Copyright 2021 Creative Tim (https://www.creative-tim.com)
+      * Copyright 2021 Cocriar.io (https://www.creative-tim.com)
       * Licensed under MIT (https://github.com/creativetimofficial/purity-ui-dashboard/blob/master/LICENSE.md)
       
-      * Design by Creative Tim & Coded by Simmmple
+      * Design by Cocriar.io & Coded by Simmmple
       
       =========================================================
       
@@ -52,7 +52,7 @@ gulp.task("licenses", async function () {
     )
     .pipe(gulp.dest("./", { overwrite: true }));
 
-  // this is to add Creative Tim licenses in the production mode for the minified css
+  // this is to add Cocriar.io licenses in the production mode for the minified css
   gulp
     .src("build/static/css/*chunk.css", { base: "./" })
     .pipe(
@@ -63,10 +63,10 @@ gulp.task("licenses", async function () {
       =========================================================
       
       * Product Page: https://www.creative-tim.com/product/purity-ui-dashboard
-      * Copyright 2021 Creative Tim (https://www.creative-tim.com)
+      * Copyright 2021 Cocriar.io (https://www.creative-tim.com)
       * Licensed under MIT (https://github.com/creativetimofficial/purity-ui-dashboard/blob/master/LICENSE.md)
       
-      * Design by Creative Tim & Coded by Simmmple
+      * Design by Cocriar.io & Coded by Simmmple
       
       =========================================================
       

@@ -1,4 +1,4 @@
-# [Teleport Dashboard](https://appseed.us/product/django-react-purity-dashboard)
+# [Teleport Dashboard](https://AppTeleport.us/product/django-react-purity-dashboard)
 
 Start your Development with an Innovative Admin Template for **Chakra UI** and **React**. Purity UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. The product comes with a simple JWT authentication flow: login/register/logout. 
 
@@ -14,8 +14,8 @@ Start your Development with an Innovative Admin Template for **Chakra UI** and *
 
 > Links
 
-- [Teleport Dashboard](https://appseed.us/product/django-react-purity-dashboard) - product page
-- [Teleport Dashboard](https://django-react-purity-dashboard.appseed-srv1.com/#/auth/signin) - LIVE Demo
+- [Teleport Dashboard](https://AppTeleport.us/product/django-react-purity-dashboard) - product page
+- [Teleport Dashboard](https://django-react-purity-dashboard.AppTeleport-srv1.com/#/auth/signin) - LIVE Demo
 - Free Support via Github (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 <br />
@@ -150,7 +150,7 @@ Content-Type: application/json
 {
     "username":"test",
     "password":"pass", 
-    "email":"test@appseed.us"
+    "email":"test@AppTeleport.us"
 }
 ```
 
@@ -164,7 +164,7 @@ Content-Type: application/json
 
 {
     "password":"pass", 
-    "email":"test@appseed.us"
+    "email":"test@AppTeleport.us"
 }
 ```
 
@@ -200,10 +200,10 @@ authorization: JWT_TOKEN (returned by Login request)
 
 ## Links & Resources
 
-- Ask for [Support](https://appseed.us/support) on [Discord](https://discord.gg/fZC6hup)
-- See for [React Starters](https://appseed.us/apps/react) - index provided by AppSeed
+- Ask for [Support](https://AppTeleport.us/support) on [Discord](https://discord.gg/fZC6hup)
+- See for [React Starters](https://AppTeleport.us/apps/react) - index provided by AppTeleport
 
 <br />
 
 ---
-**[Teleport Dashboard](https://appseed.us/product/django-react-purity-dashboard)** - Open-source full-stack seed project provided by **AppSeed [App Generator](https://appseed.us/)**
+**[Teleport Dashboard](https://AppTeleport.us/product/django-react-purity-dashboard)** - Open-source full-stack seed project provided by **AppTeleport [App Generator](https://AppTeleport.us/)**

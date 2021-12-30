@@ -31,7 +31,7 @@ export function SidebarHelp(props) {
       <Link
         target="_blank"
         w="100%"
-        href="https://appseed.us/product/django-react-purity-dashboard"
+        href="https://AppTeleport.us/product/django-react-purity-dashboard"
       >
         <Button
           fontSize="10px"

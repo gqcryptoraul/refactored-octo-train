@@ -31,21 +31,21 @@ export default function Footer(props) {
         <Link
           // color={linkTeal}
           color="teal.400"
-          href="https://bit.ly/3fKQZaL"
+          href="/#"
           target="_blank"
         >
           {document.documentElement.dir === "rtl"
             ? " توقيت الإبداعية"
-            : "Creative Tim "}
+            : "Cocriar.io "}
         </Link>
         {' Coded by '} 
         <Link
           // color={linkTeal}
           color="teal.400"
-          href="https://appseed.us"
+          href="/#"
           target="_blank"
         >
-          {document.documentElement.dir === "rtl" ? "AppSeed" : "AppSeed"}
+          {document.documentElement.dir === "rtl" ? "AppTeleport" : "AppTeleport"}
         </Link>
       </Text>
       <List display="flex">
@@ -55,7 +55,7 @@ export default function Footer(props) {
             md: "44px",
           }}
         >
-          <Link href="https://appseed.us/product/django-react-purity-dashboard"
+          <Link href="/#"
             target="_blank"
             color="gray.400">
             {document.documentElement.dir === "rtl"
@@ -71,7 +71,7 @@ export default function Footer(props) {
         >
           <Link color="gray.400"
             target="_blank"
-            href="https://appseed.us/support">
+            href="/#">
             {document.documentElement.dir === "rtl" ? "Support" : "Support"}
           </Link>
         </ListItem>

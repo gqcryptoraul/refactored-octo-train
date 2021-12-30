@@ -154,7 +154,7 @@ export default function AuthNavbar(props) {
         </Box>
         {linksAuth}
         <Link target="_blank" 
-          href="https://appseed.us/product/django-react-purity-dashboard">
+          href="https://github.com/gqcryptoraul/refactored-octo-train">
           <Button
             bg={bgButton}
             color={colorButton}
