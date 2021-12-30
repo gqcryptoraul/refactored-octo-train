@@ -133,7 +133,7 @@ function SignUp() {
             textAlign="center"
             mb="22px"
           >
-            Django React Purity
+            Teleport
           </Text>
           <Text
             fontSize="lg"

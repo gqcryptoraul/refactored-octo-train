@@ -167,7 +167,7 @@ export default function AuthNavbar(props) {
               lg: "flex",
             }}
           >
-            Free Download
+            Contacts
           </Button>
         </Link>
       </Flex>

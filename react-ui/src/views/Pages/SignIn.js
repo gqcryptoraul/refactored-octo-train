@@ -128,7 +128,7 @@ function SignIn() {
               mt={{ md: "150px", lg: "80px" }}
             >
               <Heading color={titleColor} fontSize="32px" mt="10px" mb="10px">
-                Django React Purity
+                Teleport
             </Heading>
               <Text
                 mb="36px"

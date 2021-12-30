@@ -49,7 +49,7 @@ export function SidebarHelp(props) {
           }}
           color="black"
         >
-          Django React Purity
+          Teleport
         </Button>
       </Link>
     </Flex>

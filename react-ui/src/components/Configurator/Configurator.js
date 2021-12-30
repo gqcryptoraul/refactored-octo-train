@@ -157,7 +157,7 @@ export default function Configurator(props) {
                       variant="no-hover"
                       px="30px"
                     >
-                      Free Download
+                      Contacts
                     </Button>
                   </Link>
                 </Box>
@@ -171,7 +171,7 @@ export default function Configurator(props) {
                     href="https://github.com/app-generator/django-react-purity-dashboard"
                     data-icon="octicon-star"
                     data-show-count="true"
-                    aria-label="Star Django React Purity on GitHub"
+                    aria-label="Star Teleport on GitHub"
                   >
                     Star
                   </GitHubButton>

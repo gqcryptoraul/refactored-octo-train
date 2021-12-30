@@ -1,4 +1,4 @@
-# [Django React Purity Dashboard](https://appseed.us/product/django-react-purity-dashboard)
+# [Teleport Dashboard](https://appseed.us/product/django-react-purity-dashboard)
 
 Start your Development with an Innovative Admin Template for **Chakra UI** and **React**. Purity UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. The product comes with a simple JWT authentication flow: login/register/logout. 
 
@@ -14,8 +14,8 @@ Start your Development with an Innovative Admin Template for **Chakra UI** and *
 
 > Links
 
-- [Django React Purity Dashboard](https://appseed.us/product/django-react-purity-dashboard) - product page
-- [Django React Purity Dashboard](https://django-react-purity-dashboard.appseed-srv1.com/#/auth/signin) - LIVE Demo
+- [Teleport Dashboard](https://appseed.us/product/django-react-purity-dashboard) - product page
+- [Teleport Dashboard](https://django-react-purity-dashboard.appseed-srv1.com/#/auth/signin) - LIVE Demo
 - Free Support via Github (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 <br />
@@ -186,15 +186,15 @@ authorization: JWT_TOKEN (returned by Login request)
 
 ## Product UI
 
-> **Django React Purity** - Login 
+> **Teleport** - Login 
 
-![Django React Purity Dashboard - Login.](https://user-images.githubusercontent.com/51070104/142229429-c3a3d8eb-f535-4d0c-9a01-e59bc74e08db.png)
+![Teleport Dashboard - Login.](https://user-images.githubusercontent.com/51070104/142229429-c3a3d8eb-f535-4d0c-9a01-e59bc74e08db.png)
 
 <br />
 
-> **Django React Purity** - User Profile
+> **Teleport** - User Profile
 
-![Django React Purity Dashboard - User Profile](https://user-images.githubusercontent.com/51070104/142229572-a313ac1c-e798-49cc-a86c-2e0ab9ead00a.png)
+![Teleport Dashboard - User Profile](https://user-images.githubusercontent.com/51070104/142229572-a313ac1c-e798-49cc-a86c-2e0ab9ead00a.png)
 
 <br />
 
@@ -206,4 +206,4 @@ authorization: JWT_TOKEN (returned by Login request)
 <br />
 
 ---
-**[Django React Purity Dashboard](https://appseed.us/product/django-react-purity-dashboard)** - Open-source full-stack seed project provided by **AppSeed [App Generator](https://appseed.us/)**
+**[Teleport Dashboard](https://appseed.us/product/django-react-purity-dashboard)** - Open-source full-stack seed project provided by **AppSeed [App Generator](https://appseed.us/)**
